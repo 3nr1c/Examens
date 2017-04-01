@@ -1,4 +1,4 @@
 # Primavera 2014 Parcial
 ## Ex 2
-* Enric:
+* Enric: a < 1
 * Gerard: 
